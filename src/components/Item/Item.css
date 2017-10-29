@@ -1,0 +1,55 @@
+.t-nav {
+    display: table;
+    }
+    
+.t-item {
+    list-style: none;
+    display: table-cell;
+    }
+
+
+.btn-base {
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+#btn-0 {
+    background-image: url(../../data/img/1.jpg);
+}
+
+#btn-1 {
+    background-image: url(../../data/img/2.jpg);
+}
+
+#btn-2 {
+    background-image: url(../../data/img/3.jpg);
+}
+
+#btn-3 {
+    background-image: url(../../data/img/4.jpg);
+}
+
+#btn-4 {
+    background-image: url(../../data/img/5.jpg);
+}
+
+.btn-count {
+    height: 25px;
+    width: 50px;
+    line-height: 0px;
+}
+
+.cnt {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#total {
+    display: inline!important;
+}
+
+#price_total{
+    display: inline;
+}
