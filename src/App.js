@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Item from './components/Item/Item'
+import { Item } from './components/Item/Item'
 import {degus} from './data/items'
+
 
 class App extends Component {
 
